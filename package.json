@@ -1,0 +1,22 @@
+{
+  "name": "Projeto_Interface_Moderna",
+  "version": "1.0.0",
+  "description": "Projeto de Interface para Crianças",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Candela Tecnologia",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^12.0.0"
+  }
+}
